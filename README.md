@@ -106,4 +106,4 @@ Your `components.js` file(s) should also be included at your view, and all your 
 
 # Thanks
 
-This package is inspired at [react-rails](https://github.com/reactjs/react-rails).
+
